@@ -1,3 +1,5 @@
+# trigger test
+
 FROM golang:1.12 AS build-env
 COPY . /app
 WORKDIR /app
