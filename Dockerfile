@@ -1,4 +1,4 @@
-# trigger test
+# trigger test 2
 
 FROM golang:1.12 AS build-env
 COPY . /app
